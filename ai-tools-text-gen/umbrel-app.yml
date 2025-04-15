@@ -1,1 +1,21 @@
-
+manifestVersion: 1
+id: ai-tools-text-gen
+name: Text Generation UI
+tagline: Fine-tune and run LLMs locally
+description: A web interface for fine-tuning and running large language models on your Umbrel Home.
+version: "1.0.0"
+port: 7860
+icon: https://raw.githubusercontent.com/oobabooga/text-generation-webui/main/screenshot.png
+category: AI
+developer: AI Tools
+website: https://github.com/oobabooga/text-generation-webui
+submitter: Your-GitHub-Username
+submission: https://github.com/your-username/umbrel-ai-tools-store
+dependencies: []
+repo: https://github.com/oobabooga/text-generation-webui
+support: https://github.com/oobabooga/text-generation-webui/issues
+gallery:
+  - https://raw.githubusercontent.com/oobabooga/text-generation-webui/main/screenshot.png
+path: ""
+defaultUsername: ""
+defaultPassword: ""
